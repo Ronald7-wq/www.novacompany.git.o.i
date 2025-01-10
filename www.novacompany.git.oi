@@ -1,0 +1,84 @@
+DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nova Company Consultoria</title>
+    <link rel="stylesheet" href="style.css">
+</head> 
+<header><h1>Nova Company: inovação e Soluções para o futuro</h1><Header/>
+<body>
+   <main>
+    <h2> Bem - Vindo á nova company Transformando Negocios com inovação e estratégia</h2>
+    <p>Na Nova Company ,nossa missão é ajudar empresas a prosperarem em um ambiente de negocios cada vez mais <br>dinamico e desafiador . Oferecemos consultoria estratégia, soluções inovadoras e uma abordagem personalizada para transformar seus processos, pessoas e resultados <br>
+    Acreditamos que a chave para o Sucesso empresarial está em entender as necessidades únicas de cada Cliente e criar estratégias sob medida para enfrentaros desafios e aproveitar as oportunidades do mercado. com uma equide Especilistas altamente qualificados,trabalhamos lado a lado com nossos clientes ,oferecendo soluções  praticas que geram resultados reais.</p>
+<h2>Nossos Serviços</h2>
+<img src="imagem site.jpg" alt=""> <img src="imagem 4.jpg" alt="">  <img src="imagem 6.jpg" alt="">
+
+
+  <h2>Consultoria Estratégica</h2>
+ 
+ <p>Criamos planos de ação claros e eficazes para guiar sua empresa ao sucesso. Analisamos o cenário atual da sua organização e ajudamos a definir e executar estratégias que melhoram sua competitividade e performance no mercado.
+ 
+ 
+ 
+ <h2>Transformação Digital </h2>
+ 
+ A transformação digital não é mais uma opção, é uma necessidade. Nós auxiliamos sua empresa a adotar as melhores tecnologias e práticas para modernizar seus processos, aumentar a eficiência e entregar uma experiência superior ao cliente <br>
+ <img src="imagem 7.jpg" alt="">
+ 
+ 
+ <h2>Gestão de Pessoas e Cultura Organizacional </h2>
+ 
+ Desenvolvemos equipes de alta performance e fortalecemos a cultura organizacional. Acreditamos que um time engajado e bem estruturado é essencial para o sucesso de qualquer negócio. Oferecemos soluções que incluem treinamentos de liderança, coaching executivo e programas de desenvolvimento de talentos.
+ 
+ 
+ 
+ <h2>Consultoria em Sustentabilidade e Inovação </h2>
+ 
+ A sustentabilidade e a inovação são pilares do futuro dos negócios. Ajudamos sua empresa a implementar práticas sustentáveis e inovadoras que não apenas trazem benefícios econômicos, mas também sociais e ambientais, posicionando sua organização como líder responsável em seu setor <br>
+ <img src="imagem 2.jpg" alt="">
+ 
+ <h2>Serviços Personalizados </h2>
+ 
+ Além de nossas soluções padrão, oferecemos consultoria sob medida para atender às necessidades específicas de sua empresa. Se você busca expandir seus negócios, otimizar recursos ou entrar em novos mercados, temos as ferramentas e a expertise para apoiar sua jornada <br>
+ <img src="imagem 8.jpg" alt="">
+   
+</main>
+
+    
+</body>
+<footer>
+Redes Sociais:
+Siga-nos nas redes sociais para ficar por dentro das ultims novidades e tendências:
+<hr/>
+@ 2025 Nova Company. Todos os direitos reservados .
+</footer>
+</html>
+css
+margin: 0;
+padding: 0;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 600;
+background-color: black
+}
+header{
+    padding: 40 px;
+    border-width: 2rem;
+    color: white;
+
+}
+h1{
+    text-align: center;
+    padding: 40px;
+    background-color:darkslategray
+    
+}
+h2{
+    color: aqua
+}
+footer{
+    padding: 40px;
+    background-color: darkslategrey;
+    text-align: center;
+{
